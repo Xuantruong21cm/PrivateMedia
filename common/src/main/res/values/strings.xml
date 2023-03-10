@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">common</string>
+    <string name="no_internet">No Internet</string>
+    <string name="txt_core_base_on_permission">This app uses these permissions</string>
+    <string name="txt_grant_permission_manual">You need to allow necessary permissions in Settings manually</string>
+
+</resources>

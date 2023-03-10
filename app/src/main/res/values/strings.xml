@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">PrivateMedia</string>
+
+    <string name="hidden">(hidden)</string>
+    <string name="internal">Internal</string>
+    <string name="sd_card">SD Card</string>
+    <string name="usb">USB</string>
+    <string name="favorites">Favorites</string>
+    <string name="recycle_bin">Recycle Bin</string>
+    <string name="filter_media">Filter media</string>
+    <string name="images">Images</string>
+    <string name="videos">Videos</string>
+    <string name="gifs">GIFs</string>
+    <string name="raw_images">RAW images</string>
+    <string name="svgs">SVGs</string>
+    <string name="portraits">Portraits</string>
+    <string name="unknown">Unknown</string>
+
+    <!-- Times -->
+    <string name="yesterday">Yesterday</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="every_day">Every day</string>
+    <string name="hide_year">Hide year</string>
+    <string name="seconds_raw">seconds</string>
+    <string name="minutes_raw">minutes</string>
+    <string name="hours_raw">hours</string>
+    <string name="days_raw">days</string>
+    <string name="seconds_letter">s</string>
+    <string name="minutes_letter">m</string>
+    <string name="hours_letter">h</string>
+    <string name="week_number_short">wk.</string>
+</resources>
