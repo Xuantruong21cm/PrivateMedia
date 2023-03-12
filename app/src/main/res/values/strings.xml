@@ -1,33 +1,31 @@
 <resources>
-    <string name="app_name">PrivateMedia</string>
-
-    <string name="hidden">(hidden)</string>
-    <string name="internal">Internal</string>
-    <string name="sd_card">SD Card</string>
+    <string name="app_name">PrivateGallery</string>
+    <string name="unknown_error_occurred">Xảy ra lỗi không xác định</string>
+    <string name="internal">Bộ nhớ trong</string>
+    <string name="sd_card">Thẻ SD</string>
     <string name="usb">USB</string>
-    <string name="favorites">Favorites</string>
-    <string name="recycle_bin">Recycle Bin</string>
-    <string name="filter_media">Filter media</string>
-    <string name="images">Images</string>
-    <string name="videos">Videos</string>
-    <string name="gifs">GIFs</string>
-    <string name="raw_images">RAW images</string>
+    <string name="favorites">Yêu thích</string>
+    <string name="recycle_bin">Thùng rác</string>
+    <string name="hidden">(ẩn)</string>
+    <string name="unknown">Không xác định</string>
+    <string name="today">Hôm nay</string>
+    <string name="yesterday">Hôm qua</string>
+    <string name="filter_media">Lọc</string>
+    <string name="images">Hình ảnh</string>
+    <string name="videos">Video</string>
+    <string name="gifs">Ảnh GIF</string>
+    <string name="raw_images">Ảnh RAW</string>
     <string name="svgs">SVGs</string>
-    <string name="portraits">Portraits</string>
-    <string name="unknown">Unknown</string>
-
-    <!-- Times -->
-    <string name="yesterday">Yesterday</string>
-    <string name="today">Today</string>
-    <string name="tomorrow">Tomorrow</string>
-    <string name="every_day">Every day</string>
-    <string name="hide_year">Hide year</string>
-    <string name="seconds_raw">seconds</string>
-    <string name="minutes_raw">minutes</string>
-    <string name="hours_raw">hours</string>
-    <string name="days_raw">days</string>
-    <string name="seconds_letter">s</string>
-    <string name="minutes_letter">m</string>
-    <string name="hours_letter">h</string>
-    <string name="week_number_short">wk.</string>
+    <string name="portraits">Chân dung</string>
+    <string name="restore_to_path">Đang khôi phục lại \'%s\'</string>
+    <string name="recycle_bin_emptied">Thùng rác đã được dọn sạch thành công</string>
+    <string name="empty_recycle_bin_confirmation">Bạn có chắc chắn muốn dọn sạch Thùng rác? Các tập tin sẽ bị mất vĩnh viễn.</string>
+    <string name="yes">Có</string>
+    <string name="no">Không</string>
+    <string name="fixing">Đang sửa…</string>
+    <string name="no_date_takens_found">Không tìm thấy Ngày chụp phù hợp</string>
+    <string name="dates_fixed_successfully">Sửa ngày thành công</string>
+    <string name="out_of_memory_error">Lỗi bộ nhớ</string>
+    <string name="file_saved">Tệp đã được lưu thành công</string>
+    <string name="unknown_location">Vị trí không xác định</string>
 </resources>

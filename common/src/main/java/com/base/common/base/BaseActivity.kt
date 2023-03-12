@@ -95,7 +95,7 @@ abstract class BaseActivity<VB : ViewBinding> : AppCompatActivity() {
             networkStateChangeReceiver, IntentFilter(ConnectivityManager.CONNECTIVITY_ACTION)
         )
 
-        initViews()
+        initViews(savedInstanceState)
 
     }
 
@@ -124,7 +124,7 @@ abstract class BaseActivity<VB : ViewBinding> : AppCompatActivity() {
         }
     }
 
-    abstract fun initViews()
+    abstract fun initViews(savedInstanceState : Bundle?)
 
     // Override this function for task that need run background and may need time to completed
     open fun onActivityStarted() {}
